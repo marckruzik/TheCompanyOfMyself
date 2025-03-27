@@ -31,7 +31,7 @@ Notre rêve est à la fois trajet et destination, au départ de notre nous réel
 
 ## Le trajet du changement
 
-Pour changer efficacement, il faut se représenter clairement ce trajet du changement.
+Pour changer efficacement, il faut se représenter clairement notre trajet du changement.
 * définir notre situation actuelle et réelle
 * définir notre situation future et imaginaire
 * définir le trajet réel qui part de notre situation réelle
@@ -47,7 +47,7 @@ Pour faire un parallèle avec les reflets imaginaires, observons les miroirs.
 * Nous savons que les objets vus dans le miroir ne sont pas réels, et pourtant nous dialoguons avec eux par le regard. Des objets du miroir sont quasi identiques aux objets réels, mais inversés. Nous ne pouvons pas les toucher, mais nous leur faisons confiance, pour nous coiffer, pour nous avertir d'un danger sur la route.
 * Nous devons apprendre que les objets vus dans notre imagination ne sont pas réels, et que pourtant nous pouvons dialoguer avec eux par notre esprit. Ces objets de l'imaginaire sont quasi identiques aux objets réels, mais fantasmés. Nous ne pouvons pas les toucher, mais nous pouvons apprendre à leur faire confiance, pour nous guider dans notre vie.
 
-Je voudrais définir le terme "autrechose", pour parler de tout élément imaginaire qui est le reflet d'un élément réel. Une autrechose est tout aussi réelle qu'un objet dans le miroir.
+Je voudrais définir le terme "autrechose", pour parler de tout élément imaginaire qui est le reflet d'un élément réel. Une autrechose est tout aussi réelle et imaginaire qu'un objet dans le miroir.
 
 Le rêve mélange les êtres, les situations et les trajets. Le rêve est trop vague pour utiliser efficacement notre imaginaire. Il faut redéfinir le rêve par l'autrechose.
 

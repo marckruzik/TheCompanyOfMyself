@@ -1,5 +1,11 @@
 # Articles de Marc Kruzik
 
+## 2025_03_27 : [La quête du dernier colosse, ou le miroir d'autrechose](article/2025_03_27-quete_dernier_colosse_miroir_autrechose.md)
+
+Pour changer efficacement, il faut se représenter clairement notre trajet du changement.
+
+[Discussion](https://github.com/marckruzik/TheCompanyOfMyself/discussions/8)
+
 ## 2024_12_12 : [L'abandon du rêve de Pygmalion, ou la rétrogradation nécessaire de l'Intelligence Artificielle](article/2024_12_12-abandon_reve_pygmalion.md)
 
 Arrêtons de dire "Intelligence Artificielle (générative)", et disons plutôt "Complétion Automatique par chat".
