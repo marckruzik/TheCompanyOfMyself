@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![MystCover](https://user-images.githubusercontent.com/51711029/205496464-ca994c1c-c8e0-462a-ace6-c83c168c86a3.png)
+![MystCover](image/myst.png)
  
 Myst est un des premiers jeux vidéo en 3D, immergeant le joueur dans une série de vues à la première personne.
 
