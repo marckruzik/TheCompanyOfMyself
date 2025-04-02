@@ -1,6 +1,6 @@
 # Articles de Marc Kruzik
 
-## 2025_03_27 : [La quête du dernier colosse, ou le miroir d'autrechose](article/2025_03_27-quete_dernier_colosse_miroir_autrechose.md)
+## 2025_03_27 : [La quête du dernier colosse, ou le miroir d'outre-chose](article/2025_03_27-quete_dernier_colosse_miroir_outre_chose.md)
 
 Pour changer efficacement, il faut se représenter clairement notre trajet du changement.
 
