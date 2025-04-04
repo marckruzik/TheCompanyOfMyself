@@ -71,7 +71,7 @@ La compréhension des règles de génération du nombre de châsses de la recett
 
 Et alors, enfin, on peut obtenir la bonne base d'objet avec le bon niveau et le bon nombre de châsses pour faire le bon mot runique pour le bon mercenaire ! Ouf ! Et alors il "suffit de répéter" ce genre d'actions sur à peu près tous les objets nécessaires pour correctement équiper son personnage et son mercenaire, soit environ 14 objets d'équipement.
 
-## Le résultat
+## Conclusion
 
 De cette nécessité de formation, on peut déduire plusieurs règles d'apprentissage et d'expérimentation :
 
